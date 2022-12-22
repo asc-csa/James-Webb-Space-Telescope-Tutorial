@@ -7,7 +7,7 @@ to present an example of what canbe done with this data.
 
 
 Run the script:
-pip install -r requirements.txt
+``` pip install -r requirements.txt ```
 
 
  
