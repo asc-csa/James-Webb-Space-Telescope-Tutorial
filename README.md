@@ -1,23 +1,24 @@
 # James-Webb-Data
 
 About:
-The objective of this tutorial is to promote JWST data and data accessibility as a whole. 
-The Tutorial covers the techniques involved in opening and extracting the JWST data and converting to an image.
-Also demonstrating the method of determining the number of galaxies in the produced image.
+The objective of this tutorial is to promote James Webb Space Telescope (JWST) data and facilitate its use. 
+Our goal is to  provide the user with a simple yet effective method to opening and extracting JWST data and 
+to present an example of what canbe done with this data.
 
 
 Run the script:
 pip install -r requirements.txt
 
-Required Packages for use: tarfile, astroquery.cadc
- matplotlib, astropy , imutils , skimage, numpy , cv2.
- 
+
  
  Expected Behavior: 
-Opening_a_tar_file.py will extract and save the .fits files containing the JWST image data
-Visualize_2D_fits.py will plot a single fits file and save it
-Brightness_test.py will create and filter pixels based off a brightness threshold.
-The pixels that remain will be documented and circled, presenting the user with an estimate of the number of galaxies in the image.
+
+JWST_Jupyter_Tutorial.ipynb will guide the user on the steps to downloading and extracting the JWST data.
+Next, the tutorial will demonstrate how to open the data and save it as an image for further uses.
+The last step involves creating a filter that looks at all the brightspots in the image. 
+This experimental filter can be adjusted by the user to change the brightness threshold along with the number of nearby pixels required. 
+Any pixels that do not meet the filter criteria will be turned to black.
+The remaining will be documented and circled, presenting the user with an estimate of the number of galaxies in the image.
   
 
 
