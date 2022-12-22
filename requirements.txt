@@ -1,8 +1,13 @@
-astroquery=0.4.6
-cadcdata=1.4.5
-astropy=5.1
-imutils=0.5.4
-scikit-image=0.19.3
-opencv=4.6.0
-matplotlib=3.2.2
-tarfile=3.9.2
+#################################################
+# Required Packages
+# pip install -r requirements.txt --user
+#################################################
+
+astroquery==0.4.6
+cadcdata==2.4
+astropy==5.1
+imutils==0.5.4
+scikit-image==0.19.3
+opencv-python==4.6.0.66
+matplotlib==3.2.2
+#tarfile==3.9.2
