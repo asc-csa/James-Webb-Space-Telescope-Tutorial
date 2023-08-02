@@ -1,10 +1,8 @@
-# James-Webb-Space-Telescope-Tutorial
 
 <p align="center">
  <img src="https://github.com/asc-csa/James-Webb-Space-Telescope-Tutorial/blob/main/Interacting-galaxies.jpg?raw=true" height="200">
 </p>
 
- 
 
 <p align="center">
  <a href="#stars">
@@ -24,11 +22,23 @@
  </a>
 </p>
 
+# Extraction et analyse des images du télescope spatial James Webb - Un tutoriel (English follows)
+L’objectif principal de ce tutoriel est de faire connaître les données du télescope spatial James Webb (JWST) et d’améliorer son accessibilité. Ce tutoriel doit permettre aux utilisateurs d’accéder aux données JWST et de les extraire. Pour illustrer les applications potentielles de ces données, ce tutoriel guide les utilisateurs dans le comptage du nombre de galaxies à partir des images JWST. 
+### Exécuter le script: 
+``` pip install -r requirements.txt ```
+### Comportement attendu :
+JWST_Jupyter_Tutorial.ipynb guidera l’utilisateur sur les étapes de téléchargement et d’extraction des données JWST.
 
-## About:
-The objective of this tutorial is to promote James Webb Space Telescope (JWST) data and facilitate its use. 
-Our goal is to  provide the user with a simple yet effective method to opening and extracting JWST data and 
-to present an example of what can be done with this data.
+Ensuite, le didacticiel montrera comment ouvrir les données et les enregistrer en tant qu’image pour d’autres utilisations.
+
+La dernière étape consiste à créer un filtre qui examine tous les points lumineux de l’image.
+ - Ce filtre expérimental peut être ajusté par l’utilisateur pour modifier le seuil de luminosité ainsi que le nombre de pixels à proximité requis.
+ - Tous les pixels qui ne répondent pas aux critères de filtre seront virés au noir.
+ - Le reste sera documenté et encerclé, présentant à l’utilisateur une estimation du nombre de galaxies dans l’image.
+
+
+# Extracting and analysis of the James Webb Space Telescope images - A tutorial (Le français précède)
+The primary aim of this tutorial is to raise awareness about the James Webb Space Telescope (JWST) data and enhance its accessibolity. This tutorial shall equip the users to access and extarct JWST data. To illustrate the potential applications of this data, this tutorial guide the users in counting the number of galaxies from the JWST images. 
 
 
 ### Run the script:
