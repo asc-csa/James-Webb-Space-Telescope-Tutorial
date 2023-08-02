@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://github.com/asc-csa/James-Webb-Space-Telescope-Tutorial/blob/main/Interacting-galaxies.jpg?raw=true" height="200">
+ <img src="https://www.asc-csa.gc.ca/images/recherche/tiles/16f69078-962d-443c-874c-e4003fe173c8.jpg" height="200">
 </p>
 
 
