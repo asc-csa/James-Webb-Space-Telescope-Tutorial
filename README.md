@@ -24,6 +24,9 @@
 
 # Extraction et analyse des images du télescope spatial James Webb - Un tutoriel (English follows)
 L’objectif principal de ce tutoriel est de faire connaître les données du télescope spatial James Webb (JWST) et d’améliorer son accessibilité. Ce tutoriel doit permettre aux utilisateurs d’accéder aux données JWST et de les extraire. Pour illustrer les applications potentielles de ces données, ce tutoriel guide les utilisateurs dans le comptage du nombre de galaxies à partir des images JWST. 
+
+Veuillez noter que ce tutoriel est strictement expérimental et que les étapes de traitement sont fournies pour démontrer comment manipuler les données en Python. 
+
 ### Exécuter le script: 
 ``` pip install -r requirements.txt ```
 ### Comportement attendu :
@@ -40,6 +43,7 @@ La dernière étape consiste à créer un filtre qui examine tous les points lum
 # Extracting and analysis of the James Webb Space Telescope images - A tutorial (Le français précède)
 The primary aim of this tutorial is to raise awareness about the James Webb Space Telescope (JWST) data and enhance its accessibolity. This tutorial shall equip the users to access and extarct JWST data. To illustrate the potential applications of this data, this tutorial guide the users in counting the number of galaxies from the JWST images. 
 
+Please note that this tutorial is purely experimental, and processing steps are supplied to demonstrate how to manipulate the data in Python. 
 
 ### Run the script:
 ``` pip install -r requirements.txt ```
