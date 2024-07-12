@@ -41,7 +41,7 @@ La dernière étape consiste à créer un filtre qui examine tous les points lum
 
 
 # Extracting and analysis of the James Webb Space Telescope images - A tutorial (Le français précède)
-The primary aim of this tutorial is to raise awareness about the James Webb Space Telescope (JWST) data and enhance its accessibolity. This tutorial shall equip the users to access and extarct JWST data. To illustrate the potential applications of this data, this tutorial guide the users in counting the number of galaxies from the JWST images. 
+The primary aim of this tutorial is to raise awareness about the James Webb Space Telescope (JWST) data and enhance its accessibility. This tutorial shall equip the users to access and extarct JWST data. To illustrate the potential applications of this data, this tutorial guide the users in counting the number of galaxies from the JWST images. 
 
 Please note that this tutorial is purely experimental, and processing steps are supplied to demonstrate how to manipulate the data in Python. 
 
